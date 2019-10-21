@@ -1,0 +1,1 @@
+cmd_/mnt/work/suwei/temp/gobiserial/GobiSerial/GobiSerial.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-24-generic/scripts/module-common.lds --build-id  -o /mnt/work/suwei/temp/gobiserial/GobiSerial/GobiSerial.ko /mnt/work/suwei/temp/gobiserial/GobiSerial/GobiSerial.o /mnt/work/suwei/temp/gobiserial/GobiSerial/GobiSerial.mod.o
